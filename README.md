@@ -1,2 +1,1 @@
-# DKParcellationdMRI
-Official repository of the paper titled "Deep Learning-Based Desikan-Killiany Parcellation of the Brain Using Diffusion MRI" 
+# The code will be made publicly available following acceptance of the paper.
