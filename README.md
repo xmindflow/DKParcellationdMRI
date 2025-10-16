@@ -58,7 +58,7 @@ the pretrained weights for each of the models that has been used in the framewor
 - [Consortium for Neuropsychiatric Phenomics (CNP)](https://openneuro.org/datasets/ds000030/versions/00016): Used for inference only. The list of subjects included in inference is available at: [`splits/CNP_patients.txt`](splits/CNP_patients.txt)
 
 Preprocessing was performed using the **nnU-Net** framework.  
-An additional preprocessing notebook for preparing the CNP dataset is provided at [`preprocessing/preprocess_CNP.ipynb`](preprocessing/preprocess_CNP.ipynb).  
+An additional preprocessing notebook for preparing the CNP dataset is provided at [`preprocess/preprocess_CNP.ipynb`](preprocess/preprocess_CNP.ipynb).  
 For environment setup and dependencies, refer to the [pnlNipype](https://github.com/pnlbwh/pnlNipype) repository.
 
 Pre-trained weights for all models used in our hierarchical framework, along with corresponding visualizations on the HCP dataset, are available below.
