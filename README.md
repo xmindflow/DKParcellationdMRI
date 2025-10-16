@@ -49,7 +49,7 @@ Our method introduces a two-stage hierarchical 3D deep learning framework for di
 
 ---
 
-## 🗄️ Datasets, Pre-trained weights, and Visualization
+## 🗄️ Datasets, Pre-trained weights, and Visualizations
 
 the pretrained weights for each of the models that has been used in the framework is available below. 
 
